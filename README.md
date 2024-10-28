@@ -5,4 +5,4 @@ This 'reform_dirt_digsearch_keywords.pl' code file, includes Regular Expression 
 
 Output on execution, is currently NOT stored in either a Relational or Non-relational (document store) databases, for query.
 
-To make the programme Application Code file executable on UNIX/LINUX platforms, < enter $> chmod u+x {file} at the CLI prompt.
+To make the programme Application Code file executable on UNIX/LINUX (including MacOS) platforms, < enter $> chmod u+x {file} at the CLI prompt.
