@@ -1,4 +1,8 @@
 #!/usr/bin/perl
+
+# REVISION: Ejimofor Nwoye, Campaign Lab, Newspeak House, London, England, 8/10/2024
+
+system ("clear");
 use strict;
 use warnings;
 
@@ -8,7 +12,7 @@ use warnings;
 my $csv_file = 'Reform dirt dig - News stories .csv';
 
 # Keywords to search for
-my @keywords = ('immigration', 'netzero');
+my @keywords = ('immigration', 'net zero');
 
 # Open the CSV file for reading
 open my $fh, '<', $csv_file or die "Could not open file '$csv_file' $!";
